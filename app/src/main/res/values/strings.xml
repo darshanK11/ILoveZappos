@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">I Love Zappos</string>
+    <string name="nav_header_subtitle">by Darshan Dilip Kakwani</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transaction_history">Transaction History</string>
+    <string name="menu_order_book">Order Book</string>
+    <string name="menu_price_alert">Price Alert</string>
+
+    <string name="bids_table_header">Bids Table</string>
+    <string name="bids_table_header1">Bid</string>
+    <string name="bids_table_header2">Amount</string>
+    <string name="bids_table_header3">Value</string>
+    
+    <string name="asks_table_header">Asks Table</string>
+    <string name="asks_table_header1">Ask</string>
+    <string name="asks_table_header2">Amount</string>
+    <string name="asks_table_header3">Value</string>
+
+    <string name="store_price_button">Store Price</string>
+    <string name="edit_text_hint">Enter the Price</string>
+</resources>

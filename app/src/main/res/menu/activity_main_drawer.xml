@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_transaction_history"
+            android:title="@string/menu_transaction_history" />
+        <item
+            android:id="@+id/nav_order_book"
+            android:title="@string/menu_order_book" />
+        <item
+            android:id="@+id/nav_price_alert"
+            android:title="@string/menu_price_alert" />
+    </group>
+
+</menu>
